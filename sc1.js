@@ -25,7 +25,7 @@ let ans = prompt("what is u name?", "");
 console.log(typeof(arr1));
 console.log(ans);
 
-let a4 = 4 + +"123";
+let a4 = 4 + "123";
 console.log(typeof(a4) + a4);
 
 console.log(4 + "123");
